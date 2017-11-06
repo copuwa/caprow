@@ -11,3 +11,5 @@ test codeship
 test codefresh
 
 test gitlab
+
+test travis error
