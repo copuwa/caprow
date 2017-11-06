@@ -9,3 +9,5 @@ Test circle ci
 test codeship
 
 test codefresh
+
+test gitlab
